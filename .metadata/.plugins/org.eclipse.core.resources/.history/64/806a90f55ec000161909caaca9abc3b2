@@ -1,0 +1,17 @@
+
+public class Tkdthr {
+	
+	class ParentClass
+	{
+		
+	}
+
+	class childclass extends ParentClass
+	{
+		
+	}
+	public static void main(String args[])
+	{
+		 
+	}
+}
